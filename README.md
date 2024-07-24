@@ -29,6 +29,7 @@ The analytics process is divided into four segments, each designed to extract si
 3. **Database Setup**:
    - **Create the Database**: Use MySQL Workbench to write the necessary DDL and DML commands for database creation.
    - **Data Loading**: If preferred, download the SQL script file containing all required commands and data. This will allow you to skip the manual data loading step and proceed directly to querying.
+![Alt Text](https://github.com/connectsroy/RSVP_Case_Study/blob/main/ERD.jpeg)
 
 ## Support
 
