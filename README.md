@@ -16,7 +16,7 @@ Open your MySQL Workbench and start writing the DDL and DML commands to create t
 If you don't wish to perform the data loading part, you can directly download the SQL script file containing all the commands and data required for the database creation and start directly with the querying.
 
 ERD
-alt text
+
 
 Support
 Give a ⭐️ if you like this project!
